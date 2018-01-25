@@ -1,0 +1,7 @@
+A1 -> 2.90 AU 500 TIU
+A2 -> 2.90 AU 50 TIU
+B1 -> perihelion 500 TIU
+B2 -> perihelion 50 TIU
+C1 -> No Hertz factor at 2.90 AU
+C2 -> No Hertz factor at perihelion
+D1 -> Herschel observation heliocentric distance
